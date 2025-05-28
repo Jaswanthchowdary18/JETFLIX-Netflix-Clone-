@@ -10,7 +10,7 @@ Built with **React** and **Firebase**, JETFLIX delivers a seamless user experien
 ---
 
 **Go to the Browser:**  
-  Visit https://jetflix-netflix-clone.vercel.app/  for the web page
+  Visit https://jetflix-netflix-clone.vercel.app/  or   https://jetflixn.netlify.app/  for the web page
 
 ---
 
