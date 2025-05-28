@@ -1,16 +1,27 @@
-<<<<<<< HEAD
-# React + Vite
+JETFLIX - Netflix Clone
+Overview
+JETFLIX is a modern, responsive Netflix clone web application designed to showcase trending movies and TV shows. Built with React and Firebase, JETFLIX delivers a seamless user experience with dynamic content fetching, user authentication, and an intuitive interface inspired by the original Netflix platform.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+User Authentication: Secure login and registration using Firebase Authentication.
 
-Currently, two official plugins are available:
+Responsive UI: Mobile-friendly design with adaptive layouts for different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dynamic Content: Fetches movies and shows data from external APIs (e.g., TMDB).
 
-## Expanding the ESLint configuration
+Video Player: Integrated video player for streaming trailers.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# JETFLIX-Netflix-Clone-
->>>>>>> 3676a2b6d52975087a211ece8e7e22cdec8c575c
+Custom Components: Reusable React components such as Navbar, Title Cards, and Player.
+
+State Management: Efficient state handling with React hooks.
+
+Technologies Used
+React (JavaScript library for building user interfaces)
+
+Firebase (Authentication and backend services)
+
+CSS3 & Flexbox/Grid for styling and layout
+
+TMDB API (The Movie Database API for fetching movie/show data)
+
+Vite (Fast frontend build tool)
