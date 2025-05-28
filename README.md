@@ -6,7 +6,7 @@
 _JETFLIX is a modern, responsive Netflix clone web application designed to showcase trending movies and TV shows. Built with React and Firebase, JETFLIX delivers a seamless user experience with dynamic content fetching, user authentication, and an intuitive interface inspired by the original Netflix platform._
 
 **Features**
-**User Authentication:** Secure login and registration using Firebase Authentication.
+**User Authentication:** Secure login and registration using Firebase Authentication./n
 **Responsive UI:** Mobile-friendly design with adaptive layouts for different screen sizes.
 **Dynamic Content:** Fetches movies and shows data from external APIs (e.g., TMDB).
 **Video Player:** Integrated video player for streaming trailers
